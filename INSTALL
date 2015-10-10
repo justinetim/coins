@@ -1,0 +1,9 @@
+Building CowCoin
+
+See doc/readme-qt.rst for instructions on building CowCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CowCoin.
+
+See doc/build-*.txt for instructions on building CowCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CowCoin.
